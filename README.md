@@ -1,7 +1,7 @@
 <div align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Daudsarfraz&style=flat-square&color=blue" alt=""/> <br>
+ <img src="https://komarev.com/ghpvc/?username=Dawoodsarfraz&style=flat-square&color=blue" alt=""/> <br>
 </div>
-
+ 
 Hi, I'm Dawood Sarfraz
 =============================================================================================================================================
 
@@ -96,10 +96,10 @@ Hi, I'm Dawood Sarfraz
 
 
 ## <b>_**My GitHub Stats**_</b>
-[![Dawood Sarfraz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daudsarfraz&theme=high-contrast)](https://github.com/Daudsarfraz/github-readme-activity-graph)
+[![Dawood Sarfraz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dawooddsarfraz&theme=high-contrast)](https://github.com/Dawooddsarfraz/github-readme-activity-graph)
 
-![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daudsarfraz&theme=dark&show_icons=true&background=1c1917)
-<a href="https://github.com/Daudsarfraz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daudsarfraz&layout=compact&theme=dark" alt="Top Languages"/></a>
+![Dawood Sarfraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawooddsarfraz&theme=dark&show_icons=true&background=1c1917)
+<a href="https://github.com/Dawoodsarfraz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoodsarfraz&layout=compact&theme=dark" alt="Top Languages"/></a>
 <p align='center'>
 
  
@@ -247,7 +247,7 @@ Hi, I'm Dawood Sarfraz
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/)
 </a>
 
-<a href = "https://gitlab.com/Daudsarfraz">
+<a href = "https://gitlab.com/Dawoodsarfraz">
    <img src = "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </a>
 
@@ -274,8 +274,8 @@ Hi, I'm Dawood Sarfraz
 
 
 ### :fire: My Stats :
-![Dawood Sarfraz github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Daudsarfraz)
-![Dawood Sarfraz github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Daudsarfraz)
+![Dawood Sarfraz github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=Dawoodsarfraz)
+![Dawood Sarfraz github-trophies](https://stats.hyochan.dev/api/github-trophies?login=Dawoodsarfraz)
  -->
 
 
