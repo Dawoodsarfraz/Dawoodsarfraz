@@ -14,10 +14,10 @@ Hi, I'm Dawood Sarfraz
   - **Artificial Intelligence**
   - **Machine Learning**
   - **Deep Learning**
-  - **Natural Language Processing**
-  - **Data Science**
   - **Digital Image Processing**
   - **Computer Vision**
+  - **3D Computer Vision**
+  - **Generative Models**
   - **Large Language Models**
 
 ## Languages
